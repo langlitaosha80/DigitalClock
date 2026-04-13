@@ -1,6 +1,7 @@
 """
 Digital Clock - Android App
 A customizable digital clock with always-on-top feature
+DavidGe
 """
 
 import kivy
